@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Ilmatieteen laitoksen varoitukset</title>
+    <link>https://www.ilmatieteenlaitos.fi/varoitukset</link>
+    <description>Ilmatieteen laitoksen avoimen datan (CAP) voimassa olevat varoitukset 0-5 vuorokautta</description>
+    <language>fi-FI</language>
+    <pubDate>Mon, 12 Sep 2022 11:49:23 GMT</pubDate>
+    <item>
+      <title>Keltainen tuulivaroitus merelle: Suomenlahti, ke 0.00 - 21.00</title>
+      <link>https://alerts.fmi.fi/cap/2022/09-12/11-49-23Z/2.49.0.1.246.0.0.2022.21988163.227902390736069319540920113866318363385.xml</link>
+      <description>Kovan tuulen varoitus: Kovan etelän ja kaakon välisen tuulen todennäköisyys on 40 % tiistain ja keskiviikon välisestä yöstä keskiviikko-iltaan.</description>
+      <category>MET</category>
+      <pubDate>Mon, 12 Sep 2022 11:49:23 GMT</pubDate>
+      <author>cap@fmi.fi (Ilmatieteen laitos)</author>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.246.0.0.2022.21988163.227902390736069319540920113866318363385</guid>
+    </item>
+    <item>
+      <title>Keltainen aallokkovaroitus: Paikoin kaikki merialueet, ti 18.00 - ke 9.00</title>
+      <link>https://alerts.fmi.fi/cap/2022/09-12/11-49-23Z/2.49.0.1.246.0.0.2022.21988163.156432182578013529814202391999345333714.xml</link>
+      <description>Aallokkovaroitus: Tiistai-illasta keskiviikkoaamuun kohtalaisen aallokon todennäköisyys on 60 %. Merkitsevä aallonkorkeus voi ylittää 2,5 metriä.</description>
+      <category>MET</category>
+      <pubDate>Mon, 12 Sep 2022 11:49:23 GMT</pubDate>
+      <author>cap@fmi.fi (Ilmatieteen laitos)</author>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.246.0.0.2022.21988163.156432182578013529814202391999345333714</guid>
+    </item>
+    <item>
+      <title>Keltainen tuulivaroitus merelle: Selkämeren eteläosa, ti 17.00 - ke 3.00</title>
+      <link>https://alerts.fmi.fi/cap/2022/09-12/11-49-23Z/2.49.0.1.246.0.0.2022.21988163.102783228798413063030108134094546665285.xml</link>
+      <description>Kovan tuulen varoitus: Kovan kaakkoistuulen todennäköisyys on 70 % tiistaina illalla ja tiistain ja keskiviikon välisenä yönä.</description>
+      <category>MET</category>
+      <pubDate>Mon, 12 Sep 2022 11:49:23 GMT</pubDate>
+      <author>cap@fmi.fi (Ilmatieteen laitos)</author>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.246.0.0.2022.21988163.102783228798413063030108134094546665285</guid>
+    </item>
+    <item>
+      <title>Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa, ti 18.00 - ke 12.00</title>
+      <link>https://alerts.fmi.fi/cap/2022/09-12/11-49-23Z/2.49.0.1.246.0.0.2022.21988163.174603830519847239339309489861758211591.xml</link>
+      <description>Kovan tuulen varoitus: Kovan idän ja kaakon välisen tuulen todennäköisyys on 40 % tiistai-illasta keskiviikkopäivään.</description>
+      <category>MET</category>
+      <pubDate>Mon, 12 Sep 2022 11:49:23 GMT</pubDate>
+      <author>cap@fmi.fi (Ilmatieteen laitos)</author>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.246.0.0.2022.21988163.174603830519847239339309489861758211591</guid>
+    </item>
+    <item>
+      <title>Keltainen metsäpalovaroitus: Paikoin maan eteläosa sekä Etelä-Lappi, ke 0.00 - to 0.00</title>
+      <link>https://alerts.fmi.fi/cap/2022/09-12/11-49-23Z/2.49.0.1.246.0.0.2022.21988163.327254333172200303754093706350614891917.xml</link>
+      <description>Metsäpalojen vaara on suuri tiistain ja keskiviikon välisestä yöstä keskiviikon ja torstain väliseen yöhön 40 % todennäköisyydellä.</description>
+      <category>MET</category>
+      <pubDate>Mon, 12 Sep 2022 11:49:23 GMT</pubDate>
+      <author>cap@fmi.fi (Ilmatieteen laitos)</author>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.246.0.0.2022.21988163.327254333172200303754093706350614891917</guid>
+    </item>
+    <item>
+      <title>Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 17.00 - ke 3.00</title>
+      <link>https://alerts.fmi.fi/cap/2022/09-12/11-49-23Z/2.49.0.1.246.0.0.2022.21988163.96871199596212061343647440469129108750.xml</link>
+      <description>Kovan tuulen varoitus: Kovan etelän ja kaakon välisen tuulen todennäköisyys on 70 % tiistaina illalla ja tiistain ja keskiviikon välisenä yönä.</description>
+      <category>MET</category>
+      <pubDate>Mon, 12 Sep 2022 11:49:23 GMT</pubDate>
+      <author>cap@fmi.fi (Ilmatieteen laitos)</author>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.246.0.0.2022.21988163.96871199596212061343647440469129108750</guid>
+    </item>
+    <item>
+      <title>Keltainen metsäpalovaroitus: Paikoin maan eteläosa sekä Etelä-Lappi, ti 18.00 - ke 0.00</title>
+      <link>https://alerts.fmi.fi/cap/2022/09-12/11-49-23Z/2.49.0.1.246.0.0.2022.21988163.302018809998297596753523224822325962773.xml</link>
+      <description>Metsäpalojen vaara on suuri tiistaina illalla ja tiistain ja keskiviikon välisenä yönä 40 % todennäköisyydellä.</description>
+      <category>MET</category>
+      <pubDate>Mon, 12 Sep 2022 11:49:23 GMT</pubDate>
+      <author>cap@fmi.fi (Ilmatieteen laitos)</author>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.246.0.0.2022.21988163.302018809998297596753523224822325962773</guid>
+    </item>
+    <item>
+      <title>Keltainen tuulivaroitus maa-alueille: Paikoin maan eteläosa, ke 3.00 - 18.00</title>
+      <link>https://alerts.fmi.fi/cap/2022/09-12/11-49-23Z/2.49.0.1.246.0.0.2022.21988163.301713079417074840388928744106338315810.xml</link>
+      <description>Tuulivaroitus maa-alueille: Vaarallisen voimakkaan kaakkoistuulen todennäköisyys on 40 % tiistain ja keskiviikon välisestä yöstä keskiviikko-iltaan. Tuulen nopeus voi olla puuskissa 15 m/s.</description>
+      <category>MET</category>
+      <pubDate>Mon, 12 Sep 2022 11:49:23 GMT</pubDate>
+      <author>cap@fmi.fi (Ilmatieteen laitos)</author>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.246.0.0.2022.21988163.301713079417074840388928744106338315810</guid>
+    </item>
+    <item>
+      <title>Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ti 8.00 - 14.00</title>
+      <link>https://alerts.fmi.fi/cap/2022/09-12/11-49-23Z/2.49.0.1.246.0.0.2022.21988163.116155334187780939487977871513490511251.xml</link>
+      <description>Huomautus veneilijöille: Etelätuulta päivällä 12 m/s.</description>
+      <category>MET</category>
+      <pubDate>Mon, 12 Sep 2022 11:49:23 GMT</pubDate>
+      <author>cap@fmi.fi (Ilmatieteen laitos)</author>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.246.0.0.2022.21988163.116155334187780939487977871513490511251</guid>
+    </item>
+    <item>
+      <title>Keltainen metsäpalovaroitus: Paikoin maan eteläosa sekä Etelä-Lappi, ma 14.49 - ti 14.00</title>
+      <link>https://alerts.fmi.fi/cap/2022/09-12/11-49-23Z/2.49.0.1.246.0.0.2022.21988163.150638842704428434501185061585338955792.xml</link>
+      <description>Metsäpalovaroitus on voimassa.</description>
+      <category>MET</category>
+      <pubDate>Mon, 12 Sep 2022 11:49:23 GMT</pubDate>
+      <author>cap@fmi.fi (Ilmatieteen laitos)</author>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.246.0.0.2022.21988163.150638842704428434501185061585338955792</guid>
+    </item>
+  </channel>
+</rss>
