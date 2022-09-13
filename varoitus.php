@@ -1,1 +1,1 @@
-//alku
+$xml=simplexml_load_file("autot.xml") or die("Virhe: XML-syötteen käsittely epäonnistui");
