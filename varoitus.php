@@ -1,24 +1,21 @@
 <!DOCTYPE html>
 <html>
-<body>
-
-<?php
-$xml=simplexml_load_file("alertsfeed.xml") or die("Virhe: XML-syötteen käsittely epäonnistui");
-
-foreach($xml->children() as $channel) {
-    echo $channel->title. "<br>";
-    echo $channel->description. "<br>";
-    echo $channel->pubDate. "<br>";
-    echo "<br>";
-
-    foreach($channel->children() as $item) {
-        echo $item->title. "<br>";
-        echo $item->description. "<br>";
-        echo $item->pubDate. "<br>";
+    <body>
+        <fieldset>
+        <?php
+        $xml=simplexml_load_file("alertsfeed.xml") or die("Virhe: XML-syötteen käsittely epäonnistui");
+        echo "<b>".$xml->channel->title."</b><br>";
+        echo "<b>".$xml->channel->description."</b><br>";
+        echo "<b>".$xml->channel->pubDate."</b><br>";
         echo "<br>";
-    }
-}
-?>
-
-</body>
+        
+        foreach($xml->channel->item as $item) {
+            echo $item->title."<br>";
+            echo $item->description."<br>";
+            echo $item->pubDate."<br>";
+            echo "<br>";
+        }   
+        ?>
+        </fieldset>
+    </body>
 </html>
