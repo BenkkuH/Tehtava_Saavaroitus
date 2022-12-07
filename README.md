@@ -15,7 +15,7 @@ The project consists of two files:
 
 
 ## Installation
-The project is installed on a localhost-server using XAMPP. For XAMPP, install the both files in C:\xampp\htdocs\ProjectName .
+The project is installed on a localhost-server using XAMPP. For XAMPP, install both files in C:\xampp\htdocs\ProjectName .
 
 
 
